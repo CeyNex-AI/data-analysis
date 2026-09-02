@@ -1,5 +1,6 @@
 pandas
 matplotlib
-seaborn
 pyarrow
+openpyxl
+beautifulsoup4
 jupyter
