@@ -72,4 +72,4 @@ works anywhere, which is why the EDB vocabulary demo runs on any interpreter.
 
 ## Team
 
-Notebooks: Thisen Ekanayake (230170B). Team: Senindu Dinapura (230151T), Dhinanjaya Fernando (230181J). Supervisor: Dr. Chathuranga Hettiarachchi, University of Moratuwa.
+Notebooks: Thisen Ekanayake (230170B). Team: Senindu Dinapura (230151T), Dhinanjaya Fernando (230181J). Supervisor: Dr. Chathuranga Hettiarachchi. Teaching Assistant: Birunthaban Rajendram. University of Moratuwa.
